@@ -7,6 +7,7 @@ I tried to do some MVC structure, but I don't really know if it breaks down that
 Some features/code taken from the ToDoMVC project.
 
 Features Roadmap:
+
 1. Better design/UI
 
 2. Totally delete items from list(s)
