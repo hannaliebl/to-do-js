@@ -8,5 +8,9 @@ Some features/code taken from the ToDoMVC project.
 
 Features Roadmap:
 1. Better design/UI
+
 2. Totally delete items from list(s)
+
 3. Local storage options
+
+4. Add support for multiple lists with topics?
